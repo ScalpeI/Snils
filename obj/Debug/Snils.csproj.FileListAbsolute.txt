@@ -1,0 +1,9 @@
+C:\My Files\Visual Studio\Snils\Snils\bin\Debug\Snils.exe.config
+C:\My Files\Visual Studio\Snils\Snils\bin\Debug\Snils.exe
+C:\My Files\Visual Studio\Snils\Snils\bin\Debug\Snils.pdb
+C:\My Files\Visual Studio\Snils\Snils\obj\Debug\Snils.csprojResolveAssemblyReference.cache
+C:\My Files\Visual Studio\Snils\Snils\obj\Debug\Snils.Form1.resources
+C:\My Files\Visual Studio\Snils\Snils\obj\Debug\Snils.Properties.Resources.resources
+C:\My Files\Visual Studio\Snils\Snils\obj\Debug\Snils.csproj.GenerateResource.Cache
+C:\My Files\Visual Studio\Snils\Snils\obj\Debug\Snils.exe
+C:\My Files\Visual Studio\Snils\Snils\obj\Debug\Snils.pdb

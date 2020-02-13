@@ -1,0 +1,8 @@
+C:\My Files\Visual Studio\Snils\Snils\bin\Release\Snils.exe.config
+C:\My Files\Visual Studio\Snils\Snils\bin\Release\Snils.exe
+C:\My Files\Visual Studio\Snils\Snils\bin\Release\Snils.pdb
+C:\My Files\Visual Studio\Snils\Snils\obj\Release\Snils.Form1.resources
+C:\My Files\Visual Studio\Snils\Snils\obj\Release\Snils.Properties.Resources.resources
+C:\My Files\Visual Studio\Snils\Snils\obj\Release\Snils.csproj.GenerateResource.Cache
+C:\My Files\Visual Studio\Snils\Snils\obj\Release\Snils.exe
+C:\My Files\Visual Studio\Snils\Snils\obj\Release\Snils.pdb
